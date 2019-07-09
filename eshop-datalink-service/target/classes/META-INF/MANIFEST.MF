@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: eshop-datalink-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.roncoo.eshop
+Build-Jdk: 1.7.0_72
+Built-By: dell
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+
