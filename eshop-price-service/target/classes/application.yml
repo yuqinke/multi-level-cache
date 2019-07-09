@@ -1,0 +1,17 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://192.168.31.54:8761/eureka/
+      
+server:
+  port: 8763
+  
+spring:
+  application:
+    name: eshop-price-service
+  datasource: 
+    type: com.alibaba.druid.pool.DruidDataSource
+    platform: mysql
+    url: jdbc:mysql://192.168.31.223:3306/eshop
+    username: root
+    password: root
